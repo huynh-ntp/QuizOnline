@@ -1,0 +1,12 @@
+=login.jsp
+login=LoginController
+logout=LogoutController
+gotoCreate=GotoCreateController
+createNew=CreateController
+startQuiz=StartQuizController
+nextQuestion=NextQuestionController
+finish=MarkController
+history=HistoryController
+register=RegisterController
+detail=ViewDetailController
+edit=EditQuestionController
